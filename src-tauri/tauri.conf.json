@@ -53,7 +53,7 @@
     "updater": {
       "active": true,
       "endpoints": [
-          "https://releases.myapp.com/{{target}}/{{current_version}}"
+          "https://gist.githubusercontent.com/leesub168/9869b112a86f6720f6fdd47af4ca4378/raw/e7ddeeda5055268bebe66749407616a509a7cdf0/tauri_vue.json"
       ],
       "dialog": true,
       "pubkey": "YOUR_UPDATER_SIGNATURE_PUBKEY_HERE"
