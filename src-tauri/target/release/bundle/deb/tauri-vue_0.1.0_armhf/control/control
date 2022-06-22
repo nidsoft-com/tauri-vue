@@ -1,0 +1,9 @@
+Package: tauri-vue
+Version: 0.1.0
+Architecture: armhf
+Installed-Size: 12669
+Maintainer: you
+Depends: libwebkit2gtk-4.0-37, libgtk-3-0
+Description: (none)
+ (none)
+Priority: optional

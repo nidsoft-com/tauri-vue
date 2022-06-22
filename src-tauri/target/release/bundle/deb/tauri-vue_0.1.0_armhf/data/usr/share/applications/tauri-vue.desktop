@@ -1,0 +1,7 @@
+[Desktop Entry]
+Categories=Development;
+Exec=tauri-vue
+Icon=tauri-vue
+Name=tauri-vue
+Terminal=false
+Type=Application
